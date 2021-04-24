@@ -1,3 +1,0 @@
-exports.TOKEN = 'ODM0NzE5NjA4OTExOTUzOTYw.YIE_Nw.s6a-RZxr5YifvLOAQ2sbuJnvjNA'
-exports.PREFIX= 's!'
-exports.LOGCHANNELIS= '<828945726099685384>'
